@@ -31,7 +31,7 @@ const Project = () => {
   ]
 
   return (
-    <div id="project">
+    <div className="section" id="project">
       <h2 className='Title'>Projects </h2>
       
       { myProjects.map((obj, i) => (

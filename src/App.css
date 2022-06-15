@@ -190,7 +190,7 @@
 }
 
 /* Projects */
-#project {
+.section {
   text-align: left;
   padding: 50px;
   /* height: 100vh; */
@@ -273,3 +273,17 @@
 .particleWrapper{
   z-index: -1 !important;
 }
+
+/* skills section */
+.skills-container{
+  font-size: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* .skills-flex-child{
+  flex: 1 0 25%;
+  margin: 5px;
+} */

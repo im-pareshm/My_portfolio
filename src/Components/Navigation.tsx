@@ -26,6 +26,9 @@ export default function Navigation() {
             <Nav.Link href="#home" style={{ color: "#e57055" }}>
               Home
             </Nav.Link>
+            <Nav.Link href="#skills" style={{ color: "#e57055" }}>
+              Skills
+            </Nav.Link>
             <Nav.Link href="#project" style={{ color: "#e57055" }}>
               Projects
             </Nav.Link>
